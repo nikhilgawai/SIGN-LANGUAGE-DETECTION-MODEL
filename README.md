@@ -1,4 +1,15 @@
 # SIGN LANGUAGE DETECTION MODEL
+## Demo
+
+
+https://user-images.githubusercontent.com/89011801/155462438-dc02ded4-3e8d-4f23-8631-8594163aef7f.mp4
+
+
+
+
+
+
+
 
 **AIM AND OBJECTIVES**
 
@@ -364,16 +375,6 @@ This Module is divided into two parts:
 > ls
 
 sudo pip3 install mediapipe-0.8.5\_cuda102-cp36-none-linux\_aarch64.whl
-
-# Demo
-
-
-https://user-images.githubusercontent.com/89011801/155462098-ebcb9b1c-1124-4895-97fd-b352deb59b87.mp4
-
-
-
-
-
 
 **ADVANTAGES**
 
